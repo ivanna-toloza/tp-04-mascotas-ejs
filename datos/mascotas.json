@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "luna",
+        "especie": "perro",
+        "edad": 4,
+        "descripcion": "mestiza juguetona, llena de energia y muy sociable con otros perros",
+        "estado": "en adopcion",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 2,
+        "nombre": "milo",
+        "especie": "gato",
+        "edad": 4,
+        "descripcion": "gato tranquilo y cariñoso, le encanta dormir cerca de la ventana.",
+        "estado": "en adopcion",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 3,
+        "nombre": "rocky",
+        "especie": "perro",
+        "edad": 6,
+        "descripcion": "compañero leal, de tamaño mediano, excelente con niños.",
+        "estado": "reservada",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 4,
+        "nombre": "cleo",
+        "especie": "gato",
+        "edad": 1,
+        "descripcion": "gatita curiosa y activa, ideal para departamento.",
+        "estado": "en adopcion",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 5,
+        "nombre": "simba",
+        "especie": "perro",
+        "edad": 3,
+        "descripcion": "perro mestizo rescatado, busca una familia paciente.",
+        "estado": "adoptada",
+        "imagen": "/img/mascota.svg"
+    }
+]
